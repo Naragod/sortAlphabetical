@@ -1,0 +1,15 @@
+{
+  "name": "prolucid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "clear; node ./src/main.js",
+    "test": "clear; jest"
+  },
+  "author": "Mateo Naranjo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
